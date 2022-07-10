@@ -4,14 +4,22 @@ body {
 
 h1 {
     font-size: 3.5rem;
-    font-weight: 900;
+    font-weight: bold;
     line-height: 1.5;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+p {
+    color: #8f8f8f;
 }
 
 .container-fluid {
     padding: 3% 15%;
 }
-
 
 #title {
     background-color: #ff4c68;
@@ -50,4 +58,24 @@ h1 {
 .title-image {
     transform: rotate(25deg);
     width: 60%;
+}
+
+/* Features Section */
+
+.feature-box {
+    padding: 5%;
+    text-align: center;
+}
+
+.feature-icons {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.feature-icons:hover {
+    color: #ff4c68;
+}
+
+#features {
+    padding: 7% 15%
 }
