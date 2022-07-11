@@ -126,11 +126,6 @@ p {
 
 /* Pricing Section */
 
-/* .card {
-    margin-left: 15px;
-    margin-right: 15px;
-} */
-
 #pricing {
     padding: 100px;
     text-align: center;
@@ -159,4 +154,31 @@ p {
         width: 13%;
     }
 
+}
+
+/* Call To Action Section */ 
+
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-heading {
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+/* Footer Section */
+
+#footer {
+    background-color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
 }
