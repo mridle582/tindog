@@ -119,3 +119,19 @@ p {
     padding-bottom: 3%;
     text-align: center;
 }
+
+/* Pricing Section */
+
+/* .card {
+    margin-left: 15px;
+    margin-right: 15px;
+} */
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3%;
+}
